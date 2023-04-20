@@ -1,11 +1,10 @@
-
 <html>
   <head>
     <title> Registro de Clientes </title> 
     <link href="estilosformularios.css" rel="stylesheet type="text/css"/>
   </head>
        <body>
-            <form action=" " method="post" class="form_clientes"
+            <form action=" " method="post" class="form_clientes">
                   <h2 class="titulo_form_clientes"> CLIENTES </h2> 
                          <div class="contenedor_input">
                             <table class="tabla_clientes" border="1">
@@ -69,4 +68,3 @@
              </form>
        </body>
   </html>
-
