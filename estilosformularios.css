@@ -1,14 +1,14 @@
 body{
   margin: 0;
   font-family: sans-serif;
-  background:#358F60;  
+  background:#5C07F1;  
 }
 
 .form_clientes{
   width:60%;
   max-width:500px;
   margin:auto;
-  background:#A5AA56;
+  background:#1D1D02;
   border-radius:7px;
 }
 
@@ -20,7 +20,7 @@ body{
 
 
 .titulo_form_clientes{
-  background:#0741C1;
+  background:#07BFF1;
   color: #fff;
   padding: 8px;
   text-align:center;
