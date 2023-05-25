@@ -21,13 +21,13 @@
 
 .titulo_cabecera{
  position: absolute;
- top: 100px;
+ top: 40px;
  left: 280px;
 }
 
 .slogan_cabecera{
   position: absolute;
-  top: 150px;
+  top: 90px;
   left: 280px;
 }
 .menu{
