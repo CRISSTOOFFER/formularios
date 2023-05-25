@@ -12,23 +12,23 @@
   display: flex;
   justify-content: space-between;
   postion: relative;
-  height: 180px; 
+  height: 200px; 
 }
 
 .cabecera img{
-  width: 100px;
+  width: 120px;
 }
 
 .titulo_cabecera{
  position: absolute;
- top: 100px;
- left: 180px;
+ top: 150px;
+ left: 200px;
 }
 
 .slogan_cabecera{
   position: absolute;
-  top: 100px;
-  left: 180px;
+  top: 150px;
+  left: 200px;
 }
 .menu{
  margin: 10px 10px 0 0;
