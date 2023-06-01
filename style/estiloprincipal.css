@@ -57,6 +57,13 @@
   height: 350px;
   overflow: hidden;
 }
+.lienzo_contenedor{
+  display: flex;
+  width: 7000px;
+  height: 50px;
+  transition: transform 1s ease-in;
+  will-change: transform; 
+}
 .elemento1:checked ~ .lienzo_contenedor{
   transform: translatex(0px);
 }
