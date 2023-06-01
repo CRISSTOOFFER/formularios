@@ -57,3 +57,15 @@
   height: 350px;
   overflow: hidden;
 }
+.elemento1:checked ~ .lienzo_contenedor{
+  transform: translatex(0px);
+}
+
+.elemento2:checked ~ .lienzo_contenedor{
+  transform: translatex(-600px);
+}
+
+.elemento3:checked ~ .lienzo_contenedor{
+  transform: translatex(-1200px);
+}
+
