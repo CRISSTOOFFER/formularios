@@ -129,6 +129,9 @@
   text-align:center;
   color:Red;
 }
+article:active{
+  transform: scale(1.10);
+}
 
 
 
