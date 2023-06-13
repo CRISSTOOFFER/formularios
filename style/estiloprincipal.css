@@ -110,6 +110,7 @@
   border: solid;
   border-radius: 15px;
   overflow:hidden;
+  cursor:pointer
 }
 .espacio{
   position: relative;
