@@ -127,7 +127,7 @@
 
 .piedepagina footer {
   text-align:center;
-  color:Red;
+  color:black;
 }
 article:active{
   transform: scale(1.10);
