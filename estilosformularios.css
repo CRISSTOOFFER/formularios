@@ -1,7 +1,7 @@
 body{
   margin: 0;
   font-family: sans-serif;
-  background:#B3BFFF;  
+  background:#D4D5FF;  
 }
 
 .form_clientes{
@@ -20,7 +20,7 @@ body{
 
 
 .titulo_form_clientes{
-  background:#06F9F9;
+  background:#D4D5FF;
   color: #fff;
   padding: 10px;
   text-align:center;
