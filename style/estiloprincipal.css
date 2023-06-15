@@ -39,7 +39,7 @@
 }
 
 .link{
-  background: #302101;
+  background: #0107FF;
   color: white;
   padding: 8px;
   border-radius: 5px;
@@ -47,7 +47,7 @@
 .galeria { 
   width: 100%;
   height: 400px;
-  background: #302101;
+  background: #0107FF;
   display: flex;
   justify-content: center;
   align-items: center;
