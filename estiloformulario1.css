@@ -2,14 +2,14 @@
 body{
   margin: 0;
   font-family: sans-serif;
-  background:#04D7F8;  
+  background:#060841;  
 }
 
 .form_usuario{
   width:70%;
   max-width:500px;
   margin:auto;
-  background:#F9067F;
+  background:#B3BFFF;
   border-radius:9px;
 }
 
@@ -21,7 +21,7 @@ body{
 
 
 .titulo_form_usuario{
-  background:#06F9F9;
+  background:#B3BFFF;
   color: #fff;
   padding: 10px;
   text-align:center;
