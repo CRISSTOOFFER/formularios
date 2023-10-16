@@ -1,14 +1,14 @@
 body{
   margin: 0;
   font-family: sans-serif;
-  background:#F6EB63;  
+  background:#5FFB40;  
 }
 
 .form_clientes{
   width:70%;
   max-width:500px;
   margin:auto;
-  background:#D4EAF5;
+  background:#F9F039;
   border-radius:9px;
 }
 
