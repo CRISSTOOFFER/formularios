@@ -2,7 +2,7 @@
 body{
   margin: 0;
   font-family: sans-serif;
-  background:#FEDC1D;  
+  background:#63FE5F;  
 }
 
 .form_usuario{
@@ -22,7 +22,7 @@ body{
 
 .titulo_form_usuario{
   background:#B3BFFF;
-  color: #fff;
+  color: #290228;
   padding: 10px;
   text-align:center;
   font-weight:100px;
